@@ -1,0 +1,11 @@
+# Site settings
+title: programming
+description: >
+  This is "The Programmers List."
+baseurl: ""
+url: http://saku0.github.io
+github_username:  saku0
+timezone: Asia/Calcutta
+
+# Build settings
+markdown: kramdown
